@@ -20,3 +20,33 @@ header h3 img {
     float: left;
     width: 50px;
 }
+
+.btn-ativadores{
+    width: 15%;
+    height: 50px;
+    position: relative;
+    left: 42.5%;
+    margin: 10px 0px 10px 0px;
+}
+
+.exemplo {
+    border-radius: 10px;
+    position: relative;
+    margin-top: 50px;
+}
+
+.code-img {
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
+
+.code-p {
+    margin: 0;
+    padding: 20px;
+}
+
+.no-padding {
+    padding: 0;
+}
+
